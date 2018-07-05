@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  00457149-JiFinalTerm
+//  00457149
 //
-//  Created by User11 on 2018/6/22.
-//  Copyright © 2018年 WilhelmShen. All rights reserved.
+//  Created by User16 on 2018/6/26.
+//  Copyright © 2018年 User16. All rights reserved.
 //
 
 import UIKit
